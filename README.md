@@ -1,0 +1,1 @@
+bash up-docker.compose.sh
